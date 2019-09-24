@@ -1,0 +1,1 @@
+Eradication_Memory_Plus_GH826.exe --config ./Templates_Nyanza/Configs/configLocal.json --input-path ./Templates_Nyanza/Demographics --output-path output_localSmall_zero_efficacy  > stdout.txt 2> stderr.txt

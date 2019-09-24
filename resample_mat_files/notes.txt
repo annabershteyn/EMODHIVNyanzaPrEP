@@ -1,0 +1,7 @@
+Three different independent calibrations of Nyanza are available here.
+Two test opposing assumptions about the residency of the male clients of FSW in the counties were FSW are enumerated.
+Details of these calibrations are available here:
+https://www.sciencedirect.com/science/article/pii/S2468042717300532
+I performed 64 iterations of PSPO for non-resident, 59 for resident.
+The third calibration limits condom usage rates to 30% for married, 40% for informal, and 50% for transitory partnerships to limit the extent to which the model relies on condom usage increases to reduce incidence/prevalence.
+That calibration produced a smaller, more risky high-risk core group.
